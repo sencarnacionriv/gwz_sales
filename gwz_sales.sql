@@ -1,1 +1,1 @@
-SELECT turnover,purchase_cost FROM `dt2023-407923.course17.gwz_sales_17` 
+SELECT turnover,Round(purchase_cost,2) FROM `dt2023-407923.course17.gwz_sales_17` 
